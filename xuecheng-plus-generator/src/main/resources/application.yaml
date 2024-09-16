@@ -1,0 +1,7 @@
+
+datasource:
+  username: root
+  password: mysql8017
+  url: jdbc:mysql://127.0.0.1:3306/xc_content?characterEncoding=UTF-8&useUnicode=true&useSSL=false&serverTimezone=Asia/Shanghai&tinyInt1isBit=false&allowPublicKeyRetrieval=true
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
